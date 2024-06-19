@@ -38,20 +38,6 @@ Para usar a aplicação, siga os seguintes passos:
 4. **Restaurar Backup**
    - Caso precise restaurar os arquivos, insira os caminhos nos campos apropriados e clique no botão vermelho "Restaurar Backup".
 
-## Contribuição
-
-Se você deseja contribuir com o desenvolvimento desta aplicação, siga os seguintes passos:
-
-1. **Fork o repositório**
-2. **Clone o repositório para a sua máquina local**
-3. **Crie uma branch para suas alterações**
-4. **Faça commit das suas alterações**
-5. **Envie um pull request**
-
-## Contato
-
-Para mais informações ou suporte, entre em contato com [seu_email@example.com](mailto:seu_email@example.com).
-
 ## Captura de Tela
 
 ![Captura de Tela](./img.png)
