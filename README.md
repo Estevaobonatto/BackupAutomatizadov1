@@ -1,4 +1,3 @@
-+++markdown
 # Backup Automatizado by flaYe
 
 Esta aplicação é uma ferramenta simples e intuitiva para a realização de backups automatizados. A interface do usuário é dividida em dois campos principais e dois botões de ação, conforme descrito abaixo:
@@ -55,5 +54,4 @@ Para mais informações ou suporte, entre em contato com [seu_email@example.com]
 
 ## Captura de Tela
 
-![Captura de Tela](./mnt/data/Captura%20de%20tela%202024-06-18%20214448.png)
-+++
+![Captura de Tela](./img.png)
