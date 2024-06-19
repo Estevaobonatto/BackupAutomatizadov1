@@ -2,6 +2,12 @@
 
 ### Aplicação simples para automatizar backups que normalmente são chatos e demorados, agora você pode fazer isso com apenas alguns cliques
 
+<div style="display: incline_block">
+  <img align="center" alt="net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img align="center" alt="VS" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+  <img align="center" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+</div> <br>
+
 ## Interface de Usuário
 
 ### Campos de Entrada
