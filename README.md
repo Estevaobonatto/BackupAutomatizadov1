@@ -1,6 +1,6 @@
 # Backup Automatizado by flaYe
 
-Esta aplicação é uma ferramenta simples e intuitiva para a realização de backups automatizados. A interface do usuário é dividida em dois campos principais e dois botões de ação, conforme descrito abaixo:
+### Aplicação simples para automatizar backups que normalmente são chatos e demorados, agora você pode fazer isso com apenas alguns cliques
 
 ## Interface de Usuário
 
