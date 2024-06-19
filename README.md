@@ -28,7 +28,7 @@
 2. **Restaurar Backup**
    - Descrição: Botão vermelho que restaura os arquivos de backup do diretório especificado no campo "Caminho Backup" para o caminho especificado no campo "Caminho Arquivos Locais".
 
-## Uso
+## Como usar
 
 Para usar a aplicação, siga os seguintes passos:
 
