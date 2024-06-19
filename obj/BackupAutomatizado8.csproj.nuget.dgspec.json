@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Projetos\\BackupAutomatizado8\\BackupAutomatizado8\\BackupAutomatizado8.csproj": {}
+    "C:\\Users\\estev\\OneDrive\\Área de Trabalho\\dio\\BackupAutomatizado8\\BackupAutomatizado8\\BackupAutomatizado8.csproj": {}
   },
   "projects": {
-    "H:\\Projetos\\BackupAutomatizado8\\BackupAutomatizado8\\BackupAutomatizado8.csproj": {
+    "C:\\Users\\estev\\OneDrive\\Área de Trabalho\\dio\\BackupAutomatizado8\\BackupAutomatizado8\\BackupAutomatizado8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Projetos\\BackupAutomatizado8\\BackupAutomatizado8\\BackupAutomatizado8.csproj",
+        "projectUniqueName": "C:\\Users\\estev\\OneDrive\\Área de Trabalho\\dio\\BackupAutomatizado8\\BackupAutomatizado8\\BackupAutomatizado8.csproj",
         "projectName": "BackupAutomatizado8",
-        "projectPath": "H:\\Projetos\\BackupAutomatizado8\\BackupAutomatizado8\\BackupAutomatizado8.csproj",
+        "projectPath": "C:\\Users\\estev\\OneDrive\\Área de Trabalho\\dio\\BackupAutomatizado8\\BackupAutomatizado8\\BackupAutomatizado8.csproj",
         "packagesPath": "C:\\Users\\estev\\.nuget\\packages\\",
-        "outputPath": "H:\\Projetos\\BackupAutomatizado8\\BackupAutomatizado8\\obj\\",
+        "outputPath": "C:\\Users\\estev\\OneDrive\\Área de Trabalho\\dio\\BackupAutomatizado8\\BackupAutomatizado8\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

@@ -60,11 +60,11 @@ namespace BackupAutomatizado8
                     CopyAll(new DirectoryInfo(localPath), new DirectoryInfo(backupPath));
 
                 
-                await DisplayAlert("Sucesso", "Backup realizado com sucesso!", "OK");
+                await DisplayAlert("Sucesso", "Restauração realizada com sucesso!", "OK");
             }
             catch (Exception ex)
             {
-                await DisplayAlert("Erro", $"Erro ao realizar o backup: {ex.Message}", "OK");
+                await DisplayAlert("Erro", $"Erro ao realizar a restauração: {ex.Message}", "OK");
             }
         }
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X1r4Rf5zRXE=",
+  "dgSpecHash": "L8zqeIfVz4E=",
   "success": true,
-  "projectFilePath": "H:\\Projetos\\BackupAutomatizado8\\BackupAutomatizado8\\BackupAutomatizado8.csproj",
+  "projectFilePath": "C:\\Users\\estev\\OneDrive\\Área de Trabalho\\dio\\BackupAutomatizado8\\BackupAutomatizado8\\BackupAutomatizado8.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\estev\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\estev\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

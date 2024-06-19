@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BackupAutomatizado8")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+8b6db35cb07b60dc881968d5768401cdaa5fb51d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+2e02c1364b41e53789755fd6902fed9cb9a63c6a")]
 [assembly: System.Reflection.AssemblyProductAttribute("BackupAutomatizado8")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BackupAutomatizado8")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
