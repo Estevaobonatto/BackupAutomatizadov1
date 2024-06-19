@@ -1,0 +1,1 @@
+H:\Projetos\BackupAutomatizado8\BackupAutomatizado8\BackupAutomatizado8.csproj;x64
